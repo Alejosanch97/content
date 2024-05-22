@@ -11,7 +11,7 @@ status: "published"
 
 ## Formularios HTML
 
-Esta lección es muy fácil de entender, pero es esencial debido a que en este nuevo conocimiento, se transmitirá toda la interactividad de Internet. Hay algunas etiquetas HTML adicionales que debemos analizar antes de seguir con el curso: son las primeras formas posibles de interacción que se introdujeron en HTML: las entradas o inputs y los formularios.
+Esta lección es muy fácil de entender, pero es esencial debido a que en este nuevo conocimiento, transmitirá toda la interactividad de Internet. Hay algunas etiquetas HTML adicionales que debemos analizar antes de seguir con el curso: son las primeras formas posibles de interacción que se introdujeron en HTML: las entradas o inputs y los formularios.
 
 Como siempre, comparemos nuestro sitio web con un documento de MS Word... En algún momento, los científicos necesitaban crear formularios como los que llenamos cuando pagamos nuestros impuestos: con espacios en blanco disponibles para que el usuario los llene con su Nombre, Apellido, Fecha de nacimiento, etc.
 
@@ -42,7 +42,7 @@ La siguiente es una lista de todos los elementos posibles que podemos usar para 
 
 Al igual que cualquier otra etiqueta HTML, las etiquetas de input tienen varios atributos que se pueden configurar para describir su comportamiento de manera más específica:
 
-`VALUE`: Puedes especificar un valor predeterminado que debe tener el input antes de que el usuario la complete:
+`VALUE`: Puedes especificar un valor predeterminado que debe tener el input antes de que el usuario lo complete:
 
 ```html
 <input type="text" name="firstname" value="John"/>
